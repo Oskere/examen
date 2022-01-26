@@ -7,7 +7,7 @@ namespace Metaverso
         static void Main(string[] args)
         {
             var sistema = new Sistema();
-            Console.WriteLine(sistema.Saludo("1daw3"));
+            Console.WriteLine(sistema.Saludo("Hola, bienvenido al programa del Metaverso"));
         }
     }
 }
