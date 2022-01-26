@@ -8,10 +8,10 @@ namespace MetaversoTests
         Sistema sis = new Sistema();
         [Theory]
        
-        [InlineData(45,"Metaverso")]
-        [InlineData(25,"Verso")]
-        [InlineData(12,"Meta")]
         [InlineData(16,"16")]
+        [InlineData(12,"Meta")]
+        [InlineData(25,"Verso")]
+        [InlineData(45,"Metaverso")]
         public void Testmetaverso(int numero,string expected)
         {
             String resultado = sis.metaverso(num);
