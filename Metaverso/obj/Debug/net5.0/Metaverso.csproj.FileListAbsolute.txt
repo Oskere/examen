@@ -1,0 +1,16 @@
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.exe
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.deps.json
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.runtimeconfig.json
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.runtimeconfig.dev.json
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.dll
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\ref\Metaverso.dll
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.pdb
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.csproj.AssemblyReference.cache
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.AssemblyInfoInputs.cache
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.AssemblyInfo.cs
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.dll
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\ref\Metaverso.dll
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.pdb
+C:\Users\1daw3\Desktop\ExamenSanti\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.genruntimeconfig.cache
