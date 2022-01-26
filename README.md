@@ -7,10 +7,13 @@ En este examen hemos tenido que realizar un programa y sus tests, el programa fu
 En el programa he creado un metodo sobrecargado que en funcion del argumento utilice uno u otro.
 
 Este es el codigo del programa:
-<hr>
-![Cap_1](awa.png)
+
+![Cap_1](awa.PNG)
+
+
+
 <hr>
 Y estos son los tests que he realizado para comprobar si funcionaba correctamente:
-<hr>
-![Tests](Captura.png)
-<hr>
+
+![Tests](Captura.PNG)
+
