@@ -3,24 +3,21 @@ namespace Metaverso
     public class Sistema
     {
         
-        public string metaverso(int numero){
-            if (numero%5==0 ){
-                if (numero % 3==0){
+        public string metaverso(int num){
+            if (num%5==0 ){
+                if (num % 3==0){
                     return "Metaverso";
                 }
                 return "Verso";
-            } else if (numero%3==0){
+            } else if (num%3==0){
                 return "Meta";
             } 
             return numero.ToString();
         }
-        public string Saludo(string nombre) => $"Saludos {nombre}!";
-    
-
-        public string metaverso(int[] numeros){
+        public string metaverso(int[] nums){
            string resultado="";
-           foreach(int numero in numeros){
-               resultado+=metaverso(numero);
+           foreach(int num in nums){
+               resultado+=metaverso(num);
            } 
            return resultado;
         }
