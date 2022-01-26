@@ -8,9 +8,9 @@ En el programa he creado un metodo sobrecargado que en funcion del argumento uti
 
 Este es el codigo del programa:
 <hr>
-![Cap_1](awa.PNG)
+![Cap_1](awa.png)
 <hr>
 Y estos son los tests que he realizado para comprobar si funcionaba correctamente:
 <hr>
-![Tests](Captura.PNG)
+![Tests](Captura.png)
 <hr>
